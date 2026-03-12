@@ -8,3 +8,10 @@ The analysis focuses on:
 - Customer behavior
 - Fraud or anomaly indicators
 - Transaction trends over time
+## Key Insights
+
+1. Debit transactions represent the majority of banking activity.
+2. Transaction volume fluctuates significantly across days.
+3. A small percentage of customers drive a large portion of transaction value.
+4. Retail and digital payments dominate transaction categories.
+5. High-value transactions may require monitoring for risk management.
